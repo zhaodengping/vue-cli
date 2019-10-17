@@ -1,0 +1,24 @@
+{
+  "name": "vue-cli",
+  "version": "0.0.1",
+  "description": "自己动手搭建vue-cli",
+  "main": "index.js",
+  "scripts": {
+    "dev":"webpack-dev-serve --open --progress",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhaodengping/vue-cli.git"
+  },
+  "keywords": [
+    "vue",
+    "vue-cli"
+  ],
+  "author": "AliceZhao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhaodengping/vue-cli/issues"
+  },
+  "homepage": "https://github.com/zhaodengping/vue-cli#readme"
+}
