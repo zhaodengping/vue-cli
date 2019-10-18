@@ -55,4 +55,4 @@ dev:'webpack-dev-server --hot --open --progress'
 
 >报错`webpack Entrypoint undefined = index.html`,可以配置`stats: { children: false },`具体原因不清楚。。
 
-虽然目前运行的时候，出现很多杂乱的命令，但是运行结果还是正确的，期待以后有时间去优化，谢谢观看～
+虽然目前运行的时候，出现很多杂乱的命令，但是运行结果还是正确的，期待以后有时间去优化，非常谢谢观看～
